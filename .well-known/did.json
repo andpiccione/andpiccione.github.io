@@ -6,15 +6,15 @@
   "id": "did:web:andpiccione.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:andpiccione.github.io#057f655aee94402e0558976c3979b2db378479594ff8bc52dd85eacc1d6574b1",
+      "id": "did:web:andpiccione.github.io#d9517d250c87dc995f1f29ee9b30b1cbafd4419ddd686fc0c82dfb7aa0b1e610",
       "type": "JsonWebKey2020",
       "controller": "did:web:andpiccione.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "5v64mTjnmKMKB1Xc06JZK03XeXuEEvp0e-5S_DvDzbE=",
-        "y": "JW_Xpy3I59g0jzBD7kRpxmyD18CTXhuCbYZ1GODFzeo=",
-        "kid": "057f655aee94402e0558976c3979b2db378479594ff8bc52dd85eacc1d6574b1",
+        "x": "zvPifbECjHeMYWBHqmEi7RZ_pz46AuLtUk3aG-AGQZ8=",
+        "y": "Z8NU09ACoNf9Na_szCp3FeHbH__VP641cbUVfP5EQ5o=",
+        "kid": "d9517d250c87dc995f1f29ee9b30b1cbafd4419ddd686fc0c82dfb7aa0b1e610",
         "alg": "ES256"
       }
     }
